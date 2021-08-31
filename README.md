@@ -1,6 +1,6 @@
 <!DOCTYPE html> 
 <html>
-  <head> <title>PasionPorElFutsal</title>
+  <head> <title>PasionPorElFutsal</title> </head>
 <body> 
   <h1>Pasión Por El Futsal</h1>
   <hr/>
