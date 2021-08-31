@@ -1,3 +1,7 @@
 # EstoyChikito.github.io
-<htmt> 
-  <head> <title>PasionPorElFutsal</title></head></html>
+<html> 
+  <head> <title>PasionPorElFutsal</title></head>
+<body> 
+  <h1>Prueba n1</h1>
+</html>
+  
