@@ -1,4 +1,5 @@
-<html> 
+<!DOCTYPE html> 
+<html>
   <head> <title>PasionPorElFutsal</title>
 <body> 
   <h1>Pasión Por El Futsal</h1>
